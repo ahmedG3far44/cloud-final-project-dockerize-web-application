@@ -31,9 +31,11 @@
   ```
   docker -v
   ```
+
+  
 - before you start run the docker desktop engine
   
-<img src="https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application/assets/96004565/9387fcdb-6851-4859-8b5c-231db5febbf9" alt="" />
+  <img src="https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application/assets/96004565/9387fcdb-6851-4859-8b5c-231db5febbf9" width="500" alt="" />
 
 - clone the project files to your machine
 
