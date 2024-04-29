@@ -58,5 +58,4 @@
   #### Backend server working on: http://localhost:8000
 
 ## The frontend code is deployed to netlify test the app in the link below:
-### App Link:
-  [cloud-final-project-dockerize-web-application-frontend](https://662fbdfa93c41f3750af1e46--docker-cloud-app.netlify.app/)
+#### App Link: [cloud-final-project-dockerize-web-application-frontend](https://662fbdfa93c41f3750af1e46--docker-cloud-app.netlify.app/)
