@@ -28,6 +28,7 @@
 ## To run the application follow the instructions below:
 
 - make sure the docker is installed in you machine
+  
   ```
   docker -v
   ```
@@ -54,6 +55,7 @@
   ```
   docker logs node-server-container
   ```
+
 - example of console logs for server and db is connected successfully :
   
     <img src="https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application/assets/96004565/b0a1e0fa-9980-4c1f-a3a4-ce0c8e7aaf22" alt="" />
