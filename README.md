@@ -57,4 +57,4 @@
 
 ## The frontend code is deployed to netlify test the app in the link below:
 ### App Link:
-  [cloud-final-project-dockerize-web-application-frontend](https://app.netlify.com/sites/dockerize-web-app-project/deploys/662f81bdbf75430008e32c4b)
+  [cloud-final-project-dockerize-web-application-frontend](https://662fbdfa93c41f3750af1e46--docker-cloud-app.netlify.app/)
