@@ -33,7 +33,7 @@
   ```
 
   
-- before you start run the docker desktop engine
+## before you start run the docker desktop engine
   
   <img src="https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application/assets/96004565/9387fcdb-6851-4859-8b5c-231db5febbf9" width="800" alt="" />
 
@@ -49,7 +49,7 @@
   docker compose up -d --build
   ```
 
-- make sure the server is running successful and the db is connected
+## make sure the server is running successful and the db is connected
 
   ```
   docker logs node-server-container
