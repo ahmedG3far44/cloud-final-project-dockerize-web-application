@@ -19,7 +19,6 @@ services:
       SERVICE_NAME: mysqldb
     networks:
       - internalnetwork
-
   node-server:
     container_name: node-server-container
     build:
