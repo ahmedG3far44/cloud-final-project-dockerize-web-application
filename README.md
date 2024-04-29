@@ -1,5 +1,5 @@
-# cloud-final-project-dockerize-web-application
-<p>it's a university cloud computing project to dockerize a web application and run two contianers one for node js web server and the other is for mysql database using docker compose.</p>
+# Cloud-final-project-dockerize-web-application
+  <p>it's a university cloud computing project to dockerize a web application and run two contianers one for node js web server and the other is for mysql database using docker compose.</p>
 
 ## Used Technologies :
 
@@ -33,7 +33,7 @@
   ```
 
   
-## before you start run the docker desktop engine
+## Before you start run the docker desktop engine
   
   <img src="https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application/assets/96004565/9387fcdb-6851-4859-8b5c-231db5febbf9" width="800" alt="" />
 
@@ -49,7 +49,7 @@
   docker compose up -d --build
   ```
 
-## make sure the server is running successful and the db is connected
+## Make sure the server is running successful and the db is connected
 
   ```
   docker logs node-server-container
@@ -59,7 +59,7 @@
     <img src="https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application/assets/96004565/b0a1e0fa-9980-4c1f-a3a4-ce0c8e7aaf22" alt="" />
 
     
-## tesing the front & backend:
+## Test the front & backend:
 
   #### Frontend server working on: http://localhost:3000
   #### Backend server working on: http://localhost:8000
