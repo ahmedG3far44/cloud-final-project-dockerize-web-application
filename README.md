@@ -33,7 +33,7 @@
   ```
 - before you start run the docker desktop engine
 
-- clone the files in your machine
+- clone the project files to your machine
 
   ```
   git clone -b master https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application.git
@@ -50,7 +50,7 @@
   ```
   docker logs node-server-container
   ```
-- example: of logs to check db connected successfully
+- example of console logs for server and db is connected successfully :
   
     <img src="https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application/assets/96004565/b0a1e0fa-9980-4c1f-a3a4-ce0c8e7aaf22" alt="" />
 
