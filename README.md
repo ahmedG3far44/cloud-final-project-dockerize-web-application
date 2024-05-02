@@ -26,8 +26,8 @@
 <img src="https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application/assets/96004565/4f6ca355-c24d-464e-9318-c2a062fe2c70" alt="" />
 
 ## The client source code will seperated in other repo:
-### client repos link:
-[client next js app source code ](https://github.com/ahmedG3far44/next-app-client)
+
+### client repos link: [client next js app source code ](https://github.com/ahmedG3far44/next-app-client)
 
 ## To run the application follow the instructions below:
 
