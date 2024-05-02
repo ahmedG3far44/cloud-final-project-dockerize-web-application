@@ -13,7 +13,7 @@
 
   
 
-## Files Structures:
+## Files structure:
 ### <img src="https://www.iconpacks.net/icons/4/free-icon-blue-open-folder-11570.png" width="25" height="25"/>  cloud-project-files:
   
   - <img src="https://www.iconpacks.net/icons/4/free-icon-blue-open-folder-11570.png" width="18" height="18"/>  client 
@@ -27,47 +27,47 @@
 
 ## The client source code will seperated in other repo:
 
-### client repos link: [client next js app source code ](https://github.com/ahmedG3far44/next-app-client)
+##### Client repo link: [client next js app source code ](https://github.com/ahmedG3far44/next-app-client)
 
 ## To run the application follow the instructions below:
 
-  - make sure the docker is installed in you machine
+### Make sure the docker is installed in you machine
     
   ```
   docker -v
   ```
 
   
-## Before you start run the docker desktop engine
+## Before you start run the docker desktop engine:
   
   <img src="https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application/assets/96004565/9387fcdb-6851-4859-8b5c-231db5febbf9" width="800" alt="" />
 
-#### clone the project files to your machine
+#### Clone the project files to your machine:
 
   ```
   git clone -b master https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application.git
   ```
 
-#### to build the server and db containers run
+#### To build the server and db containers run:
 
   ```
   docker compose up -d --build
   ```
 
-#### Make sure the server is running successful and the db is connected
+#### Make sure the server is running successful and the db is connected:
 
   ```
   docker logs node-server-container
   ```
 
-#### example of console logs for server and db is connected successfully :
+#### Example logs of successful database connections:
   
   <img src="https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application/assets/96004565/b0a1e0fa-9980-4c1f-a3a4-ce0c8e7aaf22" alt="" />
 
     
-## Test the backend:
+### Test the backend on port 8000 :
 
   #### Backend server working on: http://localhost:8000
 
-## The frontend code is deployed to netlify test the app in the link below:
+### The frontend code is deployed to netlify test the app in the link below:
 #### App Link: [cloud-final-project-dockerize-web-application-frontend](https://662fbdfa93c41f3750af1e46--docker-cloud-app.netlify.app/)
