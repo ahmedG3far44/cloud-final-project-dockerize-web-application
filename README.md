@@ -42,13 +42,13 @@
   
   <img src="https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application/assets/96004565/9387fcdb-6851-4859-8b5c-231db5febbf9" width="800" alt="" />
 
-#### Clone the project files to your machine:
+####1- Clone the project files to your machine:
 
   ```
   git clone -b master https://github.com/ahmedG3far44/cloud-final-project-dockerize-web-application.git
   ```
 
-#### To build the server and db containers run:
+####2- To build the server and db containers run:
 
   ```
   docker compose up -d --build
@@ -70,4 +70,4 @@
   #### Backend server working on: http://localhost:8000
 
 ### The frontend code is deployed to netlify test the app in the link below:
-#### App Link: [cloud-final-project-dockerize-web-application-frontend](https://662fbdfa93c41f3750af1e46--docker-cloud-app.netlify.app/)
+####3- Visit the app link: [cloud-final-project-dockerize-web-application-frontend](https://662fbdfa93c41f3750af1e46--docker-cloud-app.netlify.app/)
