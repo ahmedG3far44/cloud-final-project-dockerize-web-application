@@ -33,9 +33,9 @@
 
 - make sure the docker is installed in you machine
   
-  ```
-  docker -v
-  ```
+```
+docker -v
+```
 
   
 ## Before you start run the docker desktop engine
