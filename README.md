@@ -27,7 +27,7 @@
 
 ## The client source code will seperated in other repo:
 ### client repos link:
-[client next js app source code ] (https://github.com/ahmedG3far44/next-app-client)
+[client next js app source code ](https://github.com/ahmedG3far44/next-app-client)
 
 ## To run the application follow the instructions below:
 
